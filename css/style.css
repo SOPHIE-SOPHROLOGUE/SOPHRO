@@ -20,12 +20,12 @@
 
 @font-face {
   font-family: Pacifico;
-  src: url('/fonts/Pacifico-Regular.ttf') format('truetype');
+  src: url('../fonts/Pacifico-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Varela Round', sans-serif;
-  src: url('/fonts/VarelaRound-Regular.ttf') format('truetype');
+  src: url('../fonts/VarelaRound-Regular.ttf') format('truetype');
 }
 
 body, html {
@@ -71,7 +71,7 @@ h1 {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 .top-container {
-  background-image: url('/images/background.png');
+  background-image: url('../images/background.png');
   background-size: cover;
   background-position: center;
   display: flex;
